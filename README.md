@@ -1,70 +1,9 @@
-# Getting Started with Create React App
+**TextManipulator** is a versatile utility, designed as a React-based website, dedicated to the art of text manipulation. With its array of powerful tools, it offers a seamless experience for those seeking to transform and enhance their textual content. Whether you're a writer, editor, or simply someone looking to tinker with text, TextManipulator has got you covered.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+One of its fundamental features is the Word Counter, which lets you accurately gauge the number of words in your text. Meanwhile, the Character Counter provides insight into character counts, aiding you in fine-tuning your content for specific limits or requirements.
 
-## Available Scripts
+For text formatting, TextManipulator offers the convenience of converting text to uppercase or lowercase, allowing you to easily shift the tone of your content. Additionally, the tool provides a way to remove unwanted white spaces, streamlining your text and making it cleaner and more reader-friendly.
 
-In the project directory, you can run:
+But the capabilities of TextManipulator don't stop there; it has a multitude of other features, such as text manipulation functions like finding and replacing words or phrases, adding line breaks, and much more. This all-in-one text manipulation solution empowers you to transform your text in any way you desire, making it an indispensable resource for anyone dealing with text-based content. Whether you're drafting an essay, composing code, or fine-tuning your social media posts, TextManipulator simplifies the process and helps you achieve your textual goals efficiently. Give it a try and experience the power of seamless text manipulation for yourself!
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can experience a live preview of TextManipulator by visiting website here -
