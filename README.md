@@ -6,4 +6,4 @@ For text formatting, TextManipulator offers the convenience of converting text t
 
 But the capabilities of TextManipulator don't stop there; it has a multitude of other features, such as text manipulation functions like finding and replacing words or phrases, adding line breaks, and much more. This all-in-one text manipulation solution empowers you to transform your text in any way you desire, making it an indispensable resource for anyone dealing with text-based content. Whether you're drafting an essay, composing code, or fine-tuning your social media posts, TextManipulator simplifies the process and helps you achieve your textual goals efficiently. Give it a try and experience the power of seamless text manipulation for yourself!
 
-You can experience a live preview of TextManipulator by visiting website here -
+You can experience a live preview of TextManipulator by visiting website here - https://trrige.github.io/TextManipulator_React/
